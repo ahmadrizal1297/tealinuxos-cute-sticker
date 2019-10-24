@@ -1,6 +1,9 @@
 # Tealinux OS Cute Sticker
  Contributed to tealinux os, the "tea" mascot and made my own version of the telegram sticker.
 
+![GitHub Logo](/512x512/tealinux.png)
+
+
 ### Official Tealinux OS Mascot Repo
 - https://github.com/tealinuxos/Maskot-TeaLinuxOS
 
